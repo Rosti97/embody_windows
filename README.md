@@ -17,7 +17,7 @@
 - `settings.php` im v1 ordner finden und öffnen
 - `$path`-Variable ändern zu dem v1 Ordner
 
-<a href="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze"><img src="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze" style="width: 500px; max-width: 100%; height: auto" title="Click here if nothing is shown." /></a>
+<a href="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze-Ww"><img src="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze-Ww" style="width: 500px; max-width: 100%; height: auto" title="Click here if nothing is shown." /></a>
 
 ### 5. Experiment starten
 - Control Panel starten
