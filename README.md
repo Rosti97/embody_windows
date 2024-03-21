@@ -1,4 +1,5 @@
 # Rework Embody-Experiment
+Based on: https://version.aalto.fi/gitlab/eglerean/embody
 
 ### 1. XAMPP installieren
   - https://www.apachefriends.org/de/index.html
