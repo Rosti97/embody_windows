@@ -144,7 +144,7 @@ $("#movenext").submit(function(event) {
                       /* Send the data using post and put the results in a div */
                       $.post( url, {'arrX': arrX, 'arrY': arrY, 'arrTime': arrTime,'arrXD': arrXD, 'arrYD': arrYD, 'arrTimeD': arrTimeD, 'arrMU': arrMU, 'arrMD': arrMD, 'file': outfile },
                              function(data) {
-                             alert(data)
+                             //alert(data)
                              if(data==1)
                              window.location = "session.php?auto=1&userID=<?php echo $userID; ?>";
                              else
