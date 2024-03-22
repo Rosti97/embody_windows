@@ -16,7 +16,7 @@ Based on: https://version.aalto.fi/gitlab/eglerean/embody
 
 ### 4. Pfad für die Bilder ändern (optional - falls Ordnerstruktur anders benannt)
 - `settings.php` im v1 ordner finden und öffnen
-- `$path`-Variable ändern zu dem v1 Ordner
+- `$path`-Variable ändern zum v1 Ordner
 
 <a href="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze-Ww"><img src="https://drive.google.com/uc?export=view&id=1dbUVvfKUYnsMIpbd5APCvvN_er3ze-Ww" style="width: 500px; max-width: 100%; height: auto" title="Click here if nothing is shown." /></a>
 
