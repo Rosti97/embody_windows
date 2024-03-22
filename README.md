@@ -12,7 +12,7 @@ Based on: https://version.aalto.fi/gitlab/eglerean/embody
 
 ### 3. Ordner kopieren
 - `embody`-Ordner nach `C:/xampp/htdocs` kopieren
-- check ob im v1-Ordner ein subjects-Ordner zu finden ist
+- check ob im v1-Ordner ein **subjects-Ordner** zu finden ist
 
 ### 4. Pfad für die Bilder ändern (optional - falls Ordnerstruktur anders benannt)
 - `settings.php` im v1 ordner finden und öffnen
